@@ -32,6 +32,7 @@ if(firstindex==-1){
 else{
 	 lastindex =getElemen(arr,element,false);
 	 System.out.println(lastindex-firstindex);
+	 System.out.println("checkcheckcheck3");
 }
 
 }
