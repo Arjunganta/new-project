@@ -30,9 +30,7 @@ if(firstindex==-1){
 	System.out.println("the element not found in the array");
 }
 else{
-	 lastindex =getElemen(arr,element,false);
-	 System.out.println(lastindex-firstindex);
-	 System.out.println("checkcheckcheck3");
+	 String sr="We are here to check git commits/branches";
 }
 
 }
