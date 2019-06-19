@@ -1,10 +1,7 @@
 
 public class CricketGame {
 
-}
-using System;
-using System.Collections.Generic;
-using Cricketapp;
+
 
 namespace Cricketapp
 {
@@ -223,5 +220,5 @@ namespace Cricketapp
         }
     }
 
-
+}
 
